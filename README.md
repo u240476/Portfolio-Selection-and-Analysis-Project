@@ -22,7 +22,7 @@ project-root/
 └── .gitignore                             # Files/folders Git should ignore
 </pre>
 ## Core Project Methods and Their Functions
-###static double CalculatingExpReturnonCAL(double TPExpectedReturn, double weightInTP)
+### static double CalculatingExpReturnonCAL(double TPExpectedReturn, double weightInTP)
  -> Calculates Expected return for the special case that the portfolio is on the capital allocation line.
 
 ### static double[] CalculatingForGivenReturn(double[][] inverse, double[] ExpReturns, double R)
