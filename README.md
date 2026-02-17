@@ -9,13 +9,13 @@ My goal is to bridge the gap between new and experienced investors to allow user
 │   └── main/
 │       └── java/
 │           └── com/example/project/
-│               └── Calculator.java       # Main class with 21 calculation methods
+│               └── TradingBotv2.java       # Main class with 21 calculation methods
 │
 ├── src/
 │   └── test/
 │       └── java/
 │           └── com/example/project/
-│               └── CalculatorTest.java  # Unit tests for Calculator methods
+│               └── Tradingbotv2Test.java  # Unit tests for Calculator methods
 │
 ├── pom.xml                               # Maven build configuration
 ├── README.md                             # Project documentation
